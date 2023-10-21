@@ -28,7 +28,6 @@ const Layout3 = () => {
                 <MaterialCommunityIcons name="heart-outline" size={35} color="black" />
                 <View style={{ width: 269, height: 54, backgroundColor: 'red', justifyContent: 'center', alignItems: 'center', borderRadius: 30 }}>
                     <Text style={{ fontSize: 25, fontWeight: '400', color: 'white' }}>Add to card</Text>
-                    <Text style={{ fontSize: 25, fontWeight: '400', color: 'white' }}>Add to card</Text>
                 </View>
             </View>
         </View>
